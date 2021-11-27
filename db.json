@@ -2,21 +2,21 @@
     [
     {
         "title" : "Noris le petit lutin",
-        "img" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+voiture+F1&o=0%3AFB14E5ABD791E64F4CBD73DB998C0B9B6D214F77",
+        "cover" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+voiture+F1&o=0%3AFB14E5ABD791E64F4CBD73DB998C0B9B6D214F77",
         "type" : "article",
         "region" : "England",
         "text" : "JE SUIS L'ARTICLE 1 OUI J'AI BIEN DIT LE 1 LE 1 LE 1 LE 1"
     },
     {
         "title" : "Elon Musk le MALADE mental",
-        "img" : "https://s2.qwant.com/thumbr/474x355/c/d/50f83aaef6ef05ea43eb9bbaa443b6f360420911491bad6129233966054088/th.jpg?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Xo4hv1uBkbmLO4-naCvJZQHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
+        "cover" : "https://s2.qwant.com/thumbr/474x355/c/d/50f83aaef6ef05ea43eb9bbaa443b6f360420911491bad6129233966054088/th.jpg?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Xo4hv1uBkbmLO4-naCvJZQHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
         "type" : "article",
         "region" : "England",
         "text" : "JE SUIS L'ARTICLE 2 OUI J'AI BIEN DIT LE 2"
     },
     {
         "title" : "LE gaming",
-        "img" : "https://e.sport.fr/wp-content/uploads/2020/12/a0515504-737e-4fc3-91da-02dd87319a55-1000x600.jpg",
+        "cover" : "https://e.sport.fr/wp-content/uploads/2020/12/a0515504-737e-4fc3-91da-02dd87319a55-1000x600.jpg",
         "type" : "article",
         "region" : "USA",
         "text" : "JE SUIS L'ARTICLE 3"
