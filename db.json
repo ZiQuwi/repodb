@@ -1,23 +1,43 @@
-{"article" : [
-    {
-        "title" : "Noris le petit lutin",
-        "img" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+voiture+F1&o=0%3AFB14E5ABD791E64F4CBD73DB998C0B9B6D214F77",
-        "type" : "article",
-        "region" : "England",
-        "text" : "JE SUIS L'ARTICLE 1 OUI J'AI BIEN DIT LE 1 LE 1 LE 1 LE 1"
-    },
-    {
-        "title" : "Elon Musk le MALADE mental",
-        "img" : "https://s2.qwant.com/thumbr/474x355/c/d/50f83aaef6ef05ea43eb9bbaa443b6f360420911491bad6129233966054088/th.jpg?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Xo4hv1uBkbmLO4-naCvJZQHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
-        "type" : "article",
-        "region" : "England",
-        "text" : "JE SUIS L'ARTICLE 2 OUI J'AI BIEN DIT LE 2"
-    },
-    {
-        "title" : "LE gaming",
-        "img" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+kcorp&o=0%3A9A1738378E5016073DBEE926C58B48CB04546BEC",
-        "type" : "article",
-        "region" : "USA",
-        "text" : "JE SUIS L'ARTICLE 3"
-    }
-]}
+{ "article" : 
+    [
+        {
+            "id" : 1,
+            "title" : "Noris le petit lutin",
+            "img" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+voiture+F1&o=0%3AFB14E5ABD791E64F4CBD73DB998C0B9B6D214F77",
+            "region" : "England",
+            
+        },
+        {
+            "id" : 2,
+            "title" : "Elon Musk le MALADE mental",
+            "img" : "https://s2.qwant.com/thumbr/474x355/c/d/50f83aaef6ef05ea43eb9bbaa443b6f360420911491bad6129233966054088/th.jpg?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Xo4hv1uBkbmLO4-naCvJZQHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
+            "type" : "article",
+            "region" : "England",
+            "text" : "JE SUIS L'ARTICLE 2 OUI J'AI BIEN DIT LE 2"
+        },
+        {
+            "id" : 3,
+            "title" : "LE gaming",
+            "img" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+kcorp&o=0%3A9A1738378E5016073DBEE926C58B48CB04546BEC",
+            "region" : "USA",
+            "text" : "JE SUIS L'ARTICLE 3"
+        }
+    ]
+   "comment" :
+    [
+        {
+            "id": 1,
+            "img" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+voiture+F1&o=0%3AFB14E5ABD791E64F4CBD73DB998C0B9B6D214F77",
+            "text" : "JE SUIS L'ARTICLE 1 OUI J'AI BIEN DIT LE 1 LE 1 LE 1 LE 1"
+        }
+        {
+            "id": 2,
+            "img" : "https://s2.qwant.com/thumbr/474x355/c/d/50f83aaef6ef05ea43eb9bbaa443b6f360420911491bad6129233966054088/th.jpg?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Xo4hv1uBkbmLO4-naCvJZQHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
+            "text" : "JE SUIS L'ARTICLE 1 OUI J'AI BIEN DIT LE 1 LE 1 LE 1 LE 1"
+        }
+        {
+            "id": 3,
+            "img" : "https://www.qwant.com/?client=brz-brave&t=images&q=image+kcorp&o=0%3A9A1738378E5016073DBEE926C58B48CB04546BEC",
+            "text" : "JE SUIS L'ARTICLE 3"
+        }
+}
