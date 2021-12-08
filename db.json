@@ -5,7 +5,6 @@
         "cover" : "https://image-cdn.essentiallysports.com/wp-content/uploads/20200403164622/nor-scaled.jpg",
         "type" : "article",
         "section" : "Sport",
-        "text" : "JE SUIS L'ARTICLE 1 OUI J'AI BIEN DIT LE 1 LE 1 LE 1 LE 1",
         "link" : "https://www.google.fr/"
     },
     {
@@ -13,7 +12,6 @@
         "cover" : "https://s2.qwant.com/thumbr/474x355/c/d/50f83aaef6ef05ea43eb9bbaa443b6f360420911491bad6129233966054088/th.jpg?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Xo4hv1uBkbmLO4-naCvJZQHaFj%26pid%3DApi&q=0&b=1&p=0&a=0",
         "type" : "article",
         "section" : "Science",
-        "text" : "JE SUIS L'ARTICLE 2 OUI J'AI BIEN DIT LE 2",
         "link" : "https://www.google.fr/"
     },
     {
@@ -21,7 +19,6 @@
         "cover" : "https://e.sport.fr/wp-content/uploads/2020/12/a0515504-737e-4fc3-91da-02dd87319a55-1000x600.jpg",
         "type" : "article",
         "section" : "E-sport",
-        "text" : "JE SUIS L'ARTICLE 3",
         "link" : "https://www.google.fr/"
     },
     {
@@ -29,7 +26,6 @@
         "cover" : "https://i.f1g.fr/media/cms/704x396_cropupscale/2020/09/23/1625ab168174d069c084fa7dfc5138ffd361e53e91653c5ffbb8e674722a52b3.jpeg",
         "type" : "article",
         "section" : "Santé",
-        "text" : "JE SUIS L'ARTICLE 4",
         "link" : "https://www.google.fr/"
     },
     {
@@ -37,7 +33,6 @@
         "cover" : "https://www.formula1.com/content/dam/fom-website/manual/Misc/2021manual/2021SaudiArabianGrandPrixManualAdds/Sunday/GettyImages-1237036500.jpg.transform/6col/image.jpg",
         "type" : "article",
         "section" : "Sport",
-        "text" : "JE SUIS L'ARTICLE 5",
         "link" : "https://www.google.fr/"
     },
     {
@@ -45,7 +40,6 @@
         "cover" : "https://img.lemde.fr/2021/11/22/0/0/5000/3129/664/0/75/0/3da2af6_5062172-01-06.jpg",
         "type" : "article",
         "section" : "Politique",
-        "text" : "JE SUIS L'ARTICLE 6",
         "link" : "https://www.google.fr/"
     },
         {
@@ -53,7 +47,6 @@
         "cover" : "https://jeu-bayrou.com/wp-content/uploads/2021/12/Bang-double-champion-du-monde-de-la-Ligue-prend-sa.jpg",
         "type" : "article",
         "section" : "E-sport",
-        "text" : "JE SUIS L'ARTICLE 7",
         "link" : "https://www.google.fr/"
     },
         {
@@ -61,7 +54,6 @@
         "cover" : "https://www.cnewyork.net/wp-content/uploads/resizefly/2021/07/joe-biden-frontieres-usa-696x464@1.jpg",
         "type" : "article",
         "section" : "Politique",
-        "text" : "JE SUIS L'ARTICLE 8",
         "link" : "https://www.google.fr/"
     },
         {
@@ -69,7 +61,6 @@
         "cover" : "https://media.ouest-france.fr/v1/pictures/MjAyMTEyZmUwZDBkNzQ1Y2QyNTUzN2YyZWFkNWI4Nzk2M2MxNjc?width=940&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=be05d9890d96418b5fe6bbfac70e074593eab4386dfda29d1c5014f305e88676",
         "type" : "article",
         "section" : "Sport",
-        "text" : "JE SUIS L'ARTICLE 9",
         "link" : "https://www.google.fr/"
     },
     {
@@ -77,7 +68,6 @@
         "cover" : "https://media.ouest-france.fr/v1/pictures/MjAyMTExMTAzN2M4N2U3YzlkYzFmNDQ5NTJjMTE5ZDIwNmI1MmE?width=940&focuspoint=54%2C44&cropresize=1&client_id=bpeditorial&sign=616957ab979d5732cf0db3be410ed29e04fd830f4987d60e0cc1fdf2ecdde266",
         "type" : "article",
         "section" : "Santé",
-        "text" : "JE SUIS L'ARTICLE 10",
         "link" : "https://www.google.fr/"
     }
     ],
