@@ -70,5 +70,91 @@
         "section" : "Santé",
         "text" : "JE SUIS L'ARTICLE 10"
     }
-    ]
+    ],
+ "comments"[
+    {
+        "mot" : "cat",
+        "type" : "vocabulaire",
+        "categorie" : "Noun",
+        "traduction" : "chat"
+    },
+    {
+        "mot" : "drawer",
+        "type" : "vocabulaire",
+        "categorie" : "Noun",
+        "traduction" : "tiroir"
+    },
+    {
+        "mot" : "be",
+        "type" : "vocabulaire",
+        "categorie" : "Verb",
+        "traduction" : "être"
+    },
+    {
+        "mot" : "sun",
+        "type" : "vocabulaire",
+        "categorie" : "Noun",
+        "traduction" : "soleil"
+    },
+    {
+        "mot" : "cat",
+        "type" : "vocabulaire",
+        "categorie" : "Noun",
+        "traduction" : "chat"
+    },
+    {
+        "mot" : "moon",
+        "type" : "vocabulaire",
+        "categorie" : "Noun",
+        "traduction" : "lune"
+    },
+    {
+        "mot" : "go",
+        "type" : "vocabulaire",
+        "categorie" : "Verb",
+        "traduction" : "aller"
+    },
+    {
+        "mot" : "do",
+        "type" : "vocabulaire",
+        "categorie" : "Verb",
+        "traduction" : "faire"
+    },
+    {
+        "mot" : "become",
+        "type" : "vocabulaire",
+        "categorie" : "Verb",
+        "traduction" : "Devenir"
+    },
+    {
+        "mot" : "currently",
+        "type" : "vocabulaire",
+        "categorie" : "adverbe",
+        "traduction" : "actuellement"
+    },
+    {
+        "mot" : "she",
+        "type" : "Pronoun",
+        "categorie" : "Noun",
+        "traduction" : "elle"
+    },
+    {
+        "mot" : "or",
+        "type" : "vocabulaire",
+        "categorie" : "Conjounction",
+        "traduction" : "ou"
+    },
+    {
+        "mot" : "sand",
+        "type" : "vocabulaire",
+        "categorie" : "Noun",
+        "traduction" : "sable"
+    },
+    {
+        "mot" : "where",
+        "type" : "vocabulaire",
+        "categorie" : "Adverb",
+        "traduction" : "où"
+    }
+ ]
 }
