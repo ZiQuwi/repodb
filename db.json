@@ -71,7 +71,8 @@
         "text" : "JE SUIS L'ARTICLE 10"
     }
     ],
- "comments"[
+ "comments" :
+    [
     {
         "mot" : "cat",
         "type" : "vocabulaire",
