@@ -74,10 +74,10 @@
  "comments" :
     [
     {
-        "mot" : "cat",
+        "mot" : "landscape",
         "type" : "vocabulaire",
         "categorie" : "Noun",
-        "traduction" : "chat"
+        "traduction" : "paysage"
     },
     {
         "mot" : "drawer",
