@@ -40,35 +40,35 @@
         "cover" : "https://img.lemde.fr/2021/11/22/0/0/5000/3129/664/0/75/0/3da2af6_5062172-01-06.jpg",
         "type" : "article",
         "section" : "Politique",
-        "link" : "https://www.google.fr/"
+        "link" : "https://www.lefigaro.fr/sports/formule-1/formule-1-suivez-le-grand-prix-d-arabie-saoudite-20211205"
     },
         {
         "title" : "Le joueur Bang des SKT prend sa retraite",
         "cover" : "https://jeu-bayrou.com/wp-content/uploads/2021/12/Bang-double-champion-du-monde-de-la-Ligue-prend-sa.jpg",
         "type" : "article",
         "section" : "E-sport",
-        "link" : "https://www.google.fr/"
+        "link" : "https://www.team-aaa.com/fr/actualite/mercato-lol-bang-prend-sa-retraite_123389"
     },
         {
         "title" : "Les Etat-Unis maintiennent les frontières fermées",
         "cover" : "https://www.cnewyork.net/wp-content/uploads/resizefly/2021/07/joe-biden-frontieres-usa-696x464@1.jpg",
         "type" : "article",
         "section" : "Politique",
-        "link" : "https://www.google.fr/"
+        "link" : "https://www.air-journal.fr/2021-08-21-les-etats-unis-prolongent-la-fermeture-de-leurs-frontieres-aux-voyageurs-internationaux-5229975.html"
     },
         {
         "title" : "LeBron James/Russell Westbrook très performant",
         "cover" : "https://media.ouest-france.fr/v1/pictures/MjAyMTEyZmUwZDBkNzQ1Y2QyNTUzN2YyZWFkNWI4Nzk2M2MxNjc?width=940&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=be05d9890d96418b5fe6bbfac70e074593eab4386dfda29d1c5014f305e88676",
         "type" : "article",
         "section" : "Sport",
-        "link" : "https://www.google.fr/"
+        "link" : "https://www.basketsession.com/NBA/lebron-james-un-vieux-historiquement-performant-587019/"
     },
     {
         "title" : "L’OMS s’inquiète pour la santé des migrants",
         "cover" : "https://media.ouest-france.fr/v1/pictures/MjAyMTExMTAzN2M4N2U3YzlkYzFmNDQ5NTJjMTE5ZDIwNmI1MmE?width=940&focuspoint=54%2C44&cropresize=1&client_id=bpeditorial&sign=616957ab979d5732cf0db3be410ed29e04fd830f4987d60e0cc1fdf2ecdde266",
         "type" : "article",
         "section" : "Santé",
-        "link" : "https://www.google.fr/"
+        "link" : "https://www.bfmtv.com/sante/tres-preoccupant-l-oms-s-inquiete-du-rythme-de-transmission-du-covid-19-en-europe_AD-202111040197.html"
     }
     ],
  "comments" :
